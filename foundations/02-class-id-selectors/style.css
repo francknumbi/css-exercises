@@ -1,0 +1,17 @@
+
+.odd_element{
+    background-color: #ffb6c1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.third_element{
+    font-size: 24px;
+}
+#green_div{
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
+#blue_div{
+    font-size: 24px;
+    color: blue;
+}
